@@ -1,0 +1,9 @@
+#!/bin/bash
+chmod 777 *
+./clash_linux_install 
+./source_and_ros_install 
+./sougou_install 
+./vscode_install 
+./vim_install
+./todesk_install 
+./qt5.14.2_install

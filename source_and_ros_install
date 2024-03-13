@@ -1,0 +1,4 @@
+#!/bin/bash
+echo -e "\e[32m====================================`${0}`====================================\e[0m"
+
+sudo apt install -y wget && wget http://fishros.com/install -O fishros && . fishros
