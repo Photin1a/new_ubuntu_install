@@ -4,6 +4,7 @@ chmod 777 *
 ./source_and_ros_install 
 ./sougou_install 
 ./vscode_install 
+./obsidian_install
 ./vim_install
 ./todesk_install 
 ./qt5.14.2_install
