@@ -1,6 +1,6 @@
 #!/bin/bash
 #install auto or manu
-echo -e "\e[32m====================================`${0}`====================================\e[0m"
+echo -e "\e[32m====================================${0}====================================\e[0m"
 
 cd ~/Downloads
 sudo apt install -y wget && wget https://download.qt.io/archive/qt/5.14/5.14.2/qt-opensource-linux-x64-5.14.2.run&&chmod 777 ./qt-opensource-linux-x64-5.14.2.run
