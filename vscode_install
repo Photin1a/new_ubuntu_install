@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -e "\e[32m====================================`${0}`====================================\e[0m"
+echo -e "\e[32m====================================${0}====================================\e[0m"
 
 cd ~/Downloads && sudo apt install -y wget && wget https://vscode.download.prss.microsoft.com/dbazure/download/stable/019f4d1419fbc8219a181fab7892ebccf7ee29a2/code_1.87.0-1709078641_amd64.deb
 sudo dpkg -i code_1.87.0-1709078641_amd64.deb
