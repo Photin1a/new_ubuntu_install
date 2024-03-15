@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -e "\e[32m====================================`${0}`====================================\e[0m"
+echo -e "\e[32m====================================${0}====================================\e[0m"
 
 cd ~/Downloads
 sudo apt install -y git && git clone https://github.com/obsidianmd/obsidian/releases/releases/download/v1.5.8/obsidian_1.5.8_amd64.deb
