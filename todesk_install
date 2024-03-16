@@ -1,5 +1,6 @@
 #!/bin/bash
 echo -e "\e[32m====================================${0}====================================\e[0m"
 
-cd ~/Downloads && sudo apt install -y wget && wget https://dl.todesk.com/linux/todesk-v4.7.2.0-amd64.deb
+cd ~/Downloads && sudo apt install -y wget 
+wget https://dl.todesk.com/linux/todesk-v4.7.2.0-amd64.deb
 sudo dpkg -i todesk-v4.7.2.0-amd64.deb

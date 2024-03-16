@@ -7,5 +7,6 @@ sudo apt clean *fcitx*
 
 sudo apt install -y fcitx
 
-cd ~/Downloads && sudo apt install -y wget && wget https://ime-sec.gtimg.com/202403071420/22bada687d64a1ed174182e4fdbc9f84/pc/dl/gzindex/1680521603/sogoupinyin_4.2.1.145_amd64.deb
+cd ~/Downloads && sudo apt install -y wget 
+wget https://ime-sec.gtimg.com/202403071420/22bada687d64a1ed174182e4fdbc9f84/pc/dl/gzindex/1680521603/sogoupinyin_4.2.1.145_amd64.deb
 sudo dpkg -i sogoupinyin_4.2.1.145_amd64.deb
